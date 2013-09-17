@@ -21,13 +21,13 @@
     - http://webdesign.about.com/od/localization/l/blhtmlcodes-cur.htm#codes
 */
 var Constants = {
-  APP_NAME: "Bitstarter", 
+  APP_NAME: "abaca tabi", 
   FUNDING_TARGET: 10.00,
   FUNDING_UNIT_SYMBOL: "mBTC",
   FUNDING_SI_SCALE: 1000,
-  FUNDING_END_DATE: new Date("September 8, 2013"),
-  PRODUCT_NAME: "Product: Development Version",
-  PRODUCT_SHORT_DESCRIPTION: "One sentence description.",
+  FUNDING_END_DATE: new Date("October 1, 2013"),
+  PRODUCT_NAME: "abaca tabi: active development",
+  PRODUCT_SHORT_DESCRIPTION: "bring order to the chaos",
   TWITTER_USERNAME: "nodejs",
   TWITTER_TWEET: "This student crowdfunder looks interesting.",
   COINBASE_PREORDER_DATA_CODE: "5935e186b6fa54190e622ce45ac23969",
