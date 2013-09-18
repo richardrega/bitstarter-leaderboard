@@ -28,7 +28,7 @@ var Constants = {
   FUNDING_END_DATE: new Date("October 1, 2013"),
   PRODUCT_NAME: "abaca tabi: active development",
   PRODUCT_SHORT_DESCRIPTION: "bring order to the chaos",
-  TWITTER_USERNAME: "nodejs",
+  TWITTER_USERNAME: "fullmetaladdict",
   TWITTER_TWEET: "This student crowdfunder looks interesting.",
   COINBASE_PREORDER_DATA_CODE: "5935e186b6fa54190e622ce45ac23969",
   days_left: function() {
